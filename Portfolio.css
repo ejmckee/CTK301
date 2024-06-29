@@ -67,3 +67,13 @@ nav li a:hover {
 .audio {
  display: block;
 }
+
+#myCarousel {
+  margin-bottom: 24px;
+}
+
+#myCarousel .f-carousel__slide {
+  text-align: center;
+  padding: 24px;
+  background: #eee;
+}
